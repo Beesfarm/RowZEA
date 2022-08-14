@@ -229,5 +229,14 @@ a {
   .title-img {
     position: static;
     width: 20rem;
+    }
+    
+  #title{
+    text-align: center;
+  }
+  #title h1{
+    font-size: 2rem;
+    line-height: 1;
+    padding-top:3% ;
   }
 }
